@@ -1,0 +1,11 @@
+*~
+autodocs/
+images/
+!templates/default/images
+!templates/default/userbar/images
+!templates/default/js/lightface/images
+config/site.cfg
+.emacs.desktop
+.emacs.desktop.lock
+templates/default/js_*
+templates/default/css_*
